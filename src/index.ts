@@ -1,1 +1,4 @@
-console.log("init TS with node JS server");
+import Server from "./server";
+
+const server = new Server(7777);
+server.start();

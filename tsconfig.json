@@ -4,7 +4,6 @@
         "module": "commonjs",
         "outDir": "dist",
         "target": "es5",
-        "strict": true,
         "esModuleInterop": true
 
     },
